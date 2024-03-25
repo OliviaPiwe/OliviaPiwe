@@ -6,9 +6,9 @@
 -[x]eigenes Profil bei Github erstellen  
 -[x] die ersten Repos erstellen  
 -[x] eigenes Profil mit Informationen verfeinern  
--[ ] mit HTML starten  ####
+-[ ] mit HTML starten  
   
-### [Hier ein Link, um auf Youtube zu kommen, falls du grad Musik hören möchtest nebenbei](https://www.youtube.com/)  ###
+### [Hier ein Link, um auf Youtube zu kommen, falls du grad Musik hören möchtest nebenbei](https://www.youtube.com/)  
   
 ### [keine Idee, welches Song? Probier den mal!](https://www.youtube.com/watch?v=hwRtm8tzwwY)  
   

@@ -1,6 +1,7 @@
 ### Hallöchen 👋  
 
-Mein Name ist **Olivia** und ich fange gerade an zu lernen, wie ich _Github_ benutze.  
+Mein Name ist **Olivia** und ich fange gerade an zu lernen, wie ich _Github_ benutze. 
+  
 To-Do-Liste:  
 -[x] eigenes Profil bei Github erstellen  
 -[x] die ersten Repos erstellen  

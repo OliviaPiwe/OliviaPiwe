@@ -12,6 +12,7 @@ Databases: MongoDB
 
 📫 Let’s connect:
 https://olivia-piechowski.netlify.app/
+
 https://www.linkedin.com/in/olivia-piechowski/
 
 -------------------------------------------------------------------------------------
@@ -28,4 +29,5 @@ Datenbanken: MongoDB
 
 📫 Lass uns vernetzen:
 https://olivia-piechowski.netlify.app/
+
 https://www.linkedin.com/in/olivia-piechowski/

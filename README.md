@@ -1,30 +1,31 @@
-# Hallöchen 👋  
+👋 Hi, I’m Olivia Piechowski!
+🚀 Passionate about building clean, efficient, and scalable software.
 
-## Mein Name ist **Olivia** und ich fange gerade an zu lernen, wie ich _Github_ benutze. ##
-  
-#### To-Do-Liste:  
-- [x] eigenes Profil bei Github erstellen  
-- [x] die ersten Repos erstellen  
-- [x] eigenes Profil mit Informationen verfeinern  
-- [ ] mit HTML starten  
-  
-### [Hier ein Link, um auf Youtube zu kommen, falls du grad Musik hören möchtest nebenbei](https://www.youtube.com/)  
-  
-### [keine Idee, welcher Song? Probier den mal!](https://www.youtube.com/watch?v=hwRtm8tzwwY)  
-  
-> #### Und weil ich **Pflanzen** liebe, kommt hier hier nochmal ein _schönes_ Bild ;)  
-![Pflanze](https://static.spektrum.de/fm/912/f2000x857/Echeveria-elegans_iStock-493576070_sultancicekgil.jpg)
-<!--
-**OliviaPiwe/OliviaPiwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Tech Stack & Tools:
+Languages: JavaScript, Python(basics), (TypeScript – currently learning 🚀)
+Frontend: React, Tailwind CSS
+Backend: Node.js, Express, Mongoose, Socket.io, Bcrypt, RESTful APIs
+Databases: MongoDB
 
-Here are some ideas to get you started:
+💡 Always learning, optimizing, and refactoring—because code can always be cleaner!
+🐞 Debugging: 50% problem-solving, 50% wondering why it worked in the first place.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let’s connect:
+https://olivia-piechowski.netlify.app/
+https://www.linkedin.com/in/olivia-piechowski/
+
+-------------------------------------------------------------------------------------
+👋 Hi, ich bin Olivia Piechowski!
+🚀 Leidenschaftlich daran interessiert, sauberen, effizienten und skalierbaren Code zu schreiben.
+
+🛠 Tech-Stack & Tools:
+Sprachen: JavaScript, Python(basics), (TypeScript – lerne ich gerade 🚀)
+Frontend: React, Tailwind CSS
+Backend: Node.js, Express, Mongoose, Socket.io, Bcrypt, RESTful APIs
+Datenbanken: MongoDB
+💡 Ständig am Lernen, Optimieren und Refaktorisieren – denn Code kann immer besser werden!
+🐞 Debugging: 50 % Problemlösung, 50 % Rätselraten, warum es überhaupt funktioniert hat.
+
+📫 Lass uns vernetzen:
+https://olivia-piechowski.netlify.app/
+https://www.linkedin.com/in/olivia-piechowski/

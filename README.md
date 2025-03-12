@@ -11,6 +11,7 @@ Databases: MongoDB
 🐞 Debugging: 50% problem-solving, 50% wondering why it worked in the first place.
 
 📫 Let’s connect:
+
 https://olivia-piechowski.netlify.app/
 
 https://www.linkedin.com/in/olivia-piechowski/
@@ -28,6 +29,7 @@ Datenbanken: MongoDB
 🐞 Debugging: 50 % Problemlösung, 50 % Rätselraten, warum es überhaupt funktioniert hat.
 
 📫 Lass uns vernetzen:
+
 https://olivia-piechowski.netlify.app/
 
 https://www.linkedin.com/in/olivia-piechowski/

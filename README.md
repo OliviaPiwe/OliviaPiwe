@@ -28,6 +28,7 @@ Sprachen: JavaScript, Python(basics), (TypeScript – lerne ich gerade 🚀)
 Frontend: React, Tailwind CSS
 Backend: Node.js, Express, Mongoose, Socket.io, Bcrypt, RESTful APIs
 Datenbanken: MongoDB
+
 💡 Ständig am Lernen, Optimieren und Refaktorisieren – denn Code kann immer besser werden!
 
 🐞 Debugging: 50 % Problemlösung, 50 % Rätselraten, warum es überhaupt funktioniert hat.
